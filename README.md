@@ -3,7 +3,7 @@
 ## Features
 
 *Feature 1: In this project I have extrackded the data of Amazon Items and their feilds used.
-Feature 2: Felds Extrackted "title",	"price	rating",	"reviews	availability".*
+ Feature 2: Feilds Extrackted "title",	"price	rating",	"reviews	availability".*
 
 ## Installation
 
